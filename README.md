@@ -10,7 +10,7 @@ This project demonstrates a simple face recognition system using Python and Open
 
 ## Setup Instructions
 
-1. **Clone the Repository:**
+1. **Clone and Run Repository:**
    ```bash
    https://github.com/cadmostafijur/attendance-system-using-face-detection.git
    cd attendance-system-using-face-detection.git
